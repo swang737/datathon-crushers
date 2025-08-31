@@ -1,2 +1,2 @@
-# datathon-crushers
-2026 incoming citsec traders
+# datathon crushers github repo
+2026 incoming imc traders
